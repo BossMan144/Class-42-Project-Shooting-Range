@@ -1,1 +1,2 @@
-# Class-42-Project-Shooting-Range
+# C42RV_SpeedRacer_StudentActivity
+Student Activity
